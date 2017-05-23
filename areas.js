@@ -10,4 +10,4 @@ console.log(`El area de un triangulo de base ${base} y altura ${altura} es: ${tr
 let r = 4;
 //Arrow function
 const circleArea = (radio) => Math.PI * Math.pow(r, 2);
-console.log(`El area de un circulo de radio ${r} es: ${circleArea()}`)
+console.log(`El area de un circulo de radio ${r} es: ${circleArea(r)}`)
